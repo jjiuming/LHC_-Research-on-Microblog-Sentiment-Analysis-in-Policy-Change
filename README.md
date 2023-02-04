@@ -1,0 +1,4 @@
+# LHC_-Research-on-Microblog-Sentiment-Analysis-in-Policy-Change
+ Research on Microblog Sentiment Analysis in Policy Change
+With the total amount of information in the world growing at over 100 PB per month, text sentiment analysis has become one of the hot research topics in the field of natural language processing. Textual sentiment analysis is the process of mining and analysing the subjectivity, opinions, emotions and other subjective information of a text through computational techniques to classify the sentiment of a text.
+Sina Weibo is the mainstream social networking platform in China, and the comments made by internet users often carry a strong subjective tendency. And the most important topic of concern at the moment is how people's lives can be restored to order three years after the new crown epidemic has arrived.Therefore, the topic of our research is the analysis of people's sentiments on the topic of "policy liberalisation" on Weibo.
